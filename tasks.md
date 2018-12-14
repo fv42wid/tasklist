@@ -1,4 +1,4 @@
 These are the tasks
 
-- [ ] Create Task
+- [x] Create Task
 - [ ] Update Task
